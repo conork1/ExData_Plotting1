@@ -38,11 +38,11 @@ web site</a>:
 This repository contains 4 R files each of which, when run generate a PNG file with the same file name excluding the file extension :
 <b>Note:</b> The R scripts assume that the dataset (as described below) has been downloaded and extracted into the current working directory. i.e. the file household_power_consumption.txt exists in the R working directory when running the R scripts.
 <ol>
-<li>plot1.R : generates the plot1.PNG file reproducding Plot 1 below
-<li>plot2.R : generates the plot2.PNG file reproducding Plot 2 below
-<li>plot3.R : generates the plot3.PNG file reproducding Plot 3 below
-<li>plot4.R : generates the plot4.PNG file reproducding Plot 1 below
-<ol>
+<li>plot1.R : generates the plot1.PNG file reproducding Plot 1 below</li>
+<li>plot2.R : generates the plot2.PNG file reproducding Plot 2 below</li>
+<li>plot3.R : generates the plot3.PNG file reproducding Plot 3 below</li>
+<li>plot4.R : generates the plot4.PNG file reproducding Plot 1 below</li>
+</ol>
 To reproduce the output you must download the zip file from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip, extract it into your current working directory and then run each of the 4 R scripts in the R console.
 
 
