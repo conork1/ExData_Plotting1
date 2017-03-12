@@ -36,7 +36,7 @@ web site</a>:
 ## Instructions
 
 This repository contains 4 R files each of which, when run generate a PNG file with the same file name excluding the file extension :
-<b>Note:<b> The R scripts assume that the dataset (as described below) has been downloaded and extracted into the current working directory. i.e. the file household_power_consumption.txt exists in the R working directory when running the R scripts.
+<b>Note:</b> The R scripts assume that the dataset (as described below) has been downloaded and extracted into the current working directory. i.e. the file household_power_consumption.txt exists in the R working directory when running the R scripts.
 <ol>
 <li>plot1.R : generates the plot1.PNG file reproducding Plot 1 below
 <li>plot2.R : generates the plot2.PNG file reproducding Plot 2 below
